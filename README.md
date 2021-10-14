@@ -1,0 +1,2 @@
+# Fortnite-EpicDrop.jp
+フォートナイトロビーボットのリポジトリ
